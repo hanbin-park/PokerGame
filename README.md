@@ -64,3 +64,7 @@ OpponentCard = [("1", 10), ("3",10), ("4",5), ("1",8), ("3",8), ("4",8), ("2",13
 결과적으로 7장 밖에 비교를 안하기 때문에
 
 시간에서 큰 차이가 없는 결과를 보임
+
+--------
+## 구글코랩 코드 링크
+https://colab.research.google.com/drive/10tT-b8KmV7PJbsxUEjwU_LN0HpfGl7CQ?hl=ko#scrollTo=PSzXkQiUyaV6&uniqifier=1
